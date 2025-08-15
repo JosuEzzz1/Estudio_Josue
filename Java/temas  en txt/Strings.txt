@@ -1,0 +1,19 @@
+public class Main {
+    public static void main(String[] args){
+        String name = "Josue Molina";
+        System.out.println(name);
+        int length = name.length(); //The sentence length is saved
+        System.out.println("the length of the variable is " + length);
+        String wordReplace = name.replace("Josue", "Junior");
+        System.out.println(wordReplace); //Replace a word
+        System.out.println(name.endsWith("ina")); //End with
+        System.out.println(name.startsWith("Jo")); //Start with
+        System.out.println(name.contains("Mol")); //Contain any word
+        System.out.println(name.indexOf("ue")); //Show the index of the word
+        System.out.println(name.toUpperCase()); //Transform to upper case
+        System.out.println(name.toLowerCase()); //Transform to lower case
+        String bad = "       Hello World        "; //Delete the bad spaces (start, end spaces)
+        System.out.println(bad.trim()); // print
+
+    }
+}

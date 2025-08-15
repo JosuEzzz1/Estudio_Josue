@@ -1,0 +1,21 @@
+public class Main {
+    public static void main(String[] args){
+        //Conversion implícita
+        int number1 = 2;
+        byte number2 = 4;
+        int addition = number1 + number2;
+        System.out.println(addition);
+        //Conversion explícita
+        //Numbers
+        int a = 5;
+        float b = 8.5f;
+        int c = a + (int)b;
+        System.out.println(c);
+
+        //String
+        String age = "18";
+        int older = 19;
+        int addition2 = Integer.parseInt(age) + older;
+        System.out.println(addition2);
+    }
+}

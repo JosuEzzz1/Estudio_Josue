@@ -1,0 +1,7 @@
+public class Main {
+    public static void main(String[] args){
+        System.out.println("New text line, tabulation and quotation marks in a string using backslash");
+        String text = "!Hello \n \t\"world\"";
+        System.out.println(text);
+    }
+}
