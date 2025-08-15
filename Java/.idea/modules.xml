@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Java/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Java/Arrays/Arrays.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java/Bucles/Bucles.iml" filepath="$PROJECT_DIR$/Java/Bucles/Bucles.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java/hello-java/Ejercicios/Ejercicios.iml" filepath="$PROJECT_DIR$/Java/hello-java/Ejercicios/Ejercicios.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java/Java/Estudio_Josue.iml" filepath="$PROJECT_DIR$/Java/Java/Estudio_Josue.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java/Exposicion/Exposicion.iml" filepath="$PROJECT_DIR$/Java/Exposicion/Exposicion.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java/Strings/Strings.iml" filepath="$PROJECT_DIR$/Java/Strings/Strings.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java/appjava/appjava.iml" filepath="$PROJECT_DIR$/Java/appjava/appjava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java/hello-java/hello-java.iml" filepath="$PROJECT_DIR$/Java/hello-java/hello-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicios/Ejercicios.iml" filepath="$PROJECT_DIR$/Ejercicios/Ejercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-java.iml" filepath="$PROJECT_DIR$/hello-java.iml" />
     </modules>
   </component>
 </project>
